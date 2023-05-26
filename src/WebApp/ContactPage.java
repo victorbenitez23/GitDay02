@@ -5,5 +5,7 @@ public class ContactPage {
         //facebook
         //instagram
         //snapchat
+        //emial
+        //phone
     }
 }
