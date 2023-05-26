@@ -6,5 +6,7 @@ public class Sales {
         //discounts
         //coupon
         //old items
+
+        // more added
     }
 }
