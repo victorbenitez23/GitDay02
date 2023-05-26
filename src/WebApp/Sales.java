@@ -8,5 +8,7 @@ public class Sales {
         //old items
 
         // more added
+
+        //holidays sales "here"
     }
 }
